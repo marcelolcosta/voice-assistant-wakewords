@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "andromeda",
   "author": "Marcelo Costa",
-  "website": "http://192.168.250.133/",
+  "website": "",
   "model": "./andromeda.tflite",
   "version": 1,
   "micro": {
